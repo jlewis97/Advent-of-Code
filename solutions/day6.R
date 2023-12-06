@@ -1,6 +1,6 @@
 # Advent of Code
 ## December 6, 2023
-## Day 6: Scratchcards
+## Day 6: Wait for it
 
 # Import data
 dat <- read.delim("data/day6_input.txt", header = FALSE)
